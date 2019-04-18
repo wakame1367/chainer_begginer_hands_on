@@ -1,6 +1,7 @@
 # files under ./data
 data/*.csv
 data/*.npz
+out/*
 output/*.csv
 # files under ./images
 images/
