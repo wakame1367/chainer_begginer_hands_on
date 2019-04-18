@@ -8,6 +8,7 @@ verify_ssl = true
 [packages]
 chainer = "*"
 cupy-cuda90 = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.6"
